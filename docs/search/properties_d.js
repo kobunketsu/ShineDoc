@@ -1,0 +1,23 @@
+var searchData=
+[
+  ['name_0',['name',['../interface_k_k_material.html#aeb1bcd9230def9515d27a6ca1fdb7b65',1,'KKMaterial::name'],['../interface_k_k_technique.html#a05d6123620bb359d19dd681d4a3b5094',1,'KKTechnique::name'],['../protocol_a_c_resource_protocol-p.html#a5e3ee4faf66c81160091a06e786b6fae',1,'ACResourceProtocol-p::name'],['../interface__bak___k_k_image_reflect_filter.html#aab1139016d132804744d508d06e3226d',1,'_bak_KKImageReflectFilter::name'],['../interface_k_k_param_preset_lib_model.html#a0b4bb8aeb5aa38b8393b26170bd02066',1,'KKParamPresetLibModel::name'],['../interface_k_k_param_preset_model.html#ab6ae473cf4d0ff53ed03f3675abed0dd',1,'KKParamPresetModel::name'],['../interface_k_k_param_set_model.html#ae01455c6c3fcbaf614f27837a5cd6061',1,'KKParamSetModel::name'],['../interface_k_k_watermark_configuration.html#a66e8ba1315e303d1a1656aa10c53b7c9',1,'KKWatermarkConfiguration::name']]],
+  ['navpreeditmediadata_1',['navPreEditMediaData',['../interface_k_k_common_router_view_controller.html#a567666d3c46b9a0babf105206e84e0d5',1,'KKCommonRouterViewController']]],
+  ['newframeactive_2',['newframeactive',['../interface_k_k_base_node.html#a072e5b6ae9edfe7cf0524cda25822e19',1,'KKBaseNode::newFrameActive'],['../interface_g_p_u_image_output.html#a4a2878f0dfc1932d2a59c0e7a29060cf',1,'GPUImageOutput::newFrameActive']]],
+  ['nextlevel_3',['nextLevel',['../interface_k_k_scn_human_node.html#a358ba74f5b83c58b87e82e648b961d23',1,'KKScnHumanNode']]],
+  ['noiseestimation_4',['noiseEstimation',['../protocol_k_k_media_image_statistics_p_s_n_r-p.html#a5b4070a564c683a8e622b1a516016214',1,'KKMediaImageStatisticsPSNR-p']]],
+  ['norepeatcandidatebetweenselection_5',['noRepeatCandidateBetweenSelection',['../protocol_k_k_param_preset_selector_optimize_protocol-p.html#ad28d22d865ee9ad1c76f9d4bad3318c5',1,'KKParamPresetSelectorOptimizeProtocol-p']]],
+  ['normalscale_6',['normalscale',['../interface_k_k_image_rain_ripple_normal_filter.html#a92214a1a19925b3afef3e2156aafc8e9',1,'KKImageRainRippleNormalFilter::normalScale'],['../interface_k_k_image_reflector_filter.html#a05238e52278404ef22c92017ec185524',1,'KKImageReflectorFilter::normalScale']]],
+  ['normaluvaspectratio_7',['normaluvaspectratio',['../interface_k_k_image_rain_ripple_normal_filter.html#a5d8b440553fc95633591ecc3a051a18e',1,'KKImageRainRippleNormalFilter::normalUVAspectRatio'],['../interface_k_k_image_reflector_filter.html#ae7a497569cc2c92d52473cf1d0136b47',1,'KKImageReflectorFilter::normalUVAspectRatio']]],
+  ['normaluvoffset_8',['normaluvoffset',['../interface_k_k_image_rain_ripple_normal_filter.html#a78a3649821395b9b37d42089039f9858',1,'KKImageRainRippleNormalFilter::normalUVOffset'],['../interface_k_k_image_reflector_filter.html#a5f8433e724422c335b5756f4ac310a0b',1,'KKImageReflectorFilter::normalUVOffset']]],
+  ['normaluvoffsetspeed_9',['normalUVOffsetSpeed',['../interface_k_k_image_reflect_mirror_filter_grp.html#a1ff0c59fe255b0cd41fef66cc1f04133',1,'KKImageReflectMirrorFilterGrp']]],
+  ['normaluvscale_10',['normaluvscale',['../interface_k_k_image_rain_ripple_normal_filter.html#a9c62f61ca501cafb5a0601e29d6a9457',1,'KKImageRainRippleNormalFilter::normalUVScale'],['../interface_k_k_image_reflector_filter.html#a185ac523d52b7b303c93255e9c2fc0a1',1,'KKImageReflectorFilter::normalUVScale']]],
+  ['notificationblockobserverinfo_11',['notificationBlockObserverInfo',['../category_n_s_object_07_notification_08.html#a8d88b1e75b8d90db3c21d7a6b4649dd0',1,'NSObject(Notification)']]],
+  ['notificationimageview_12',['notificationImageView',['../interface_a_c_button.html#a34756f8ebd28fbdbf5169818f2561767',1,'ACButton']]],
+  ['notifypendingcomposetitle_13',['notifyPendingComposeTitle',['../protocol_k_k_effect_auto_compose_monetiz_view_protocol-p.html#a7442a7f236ce6a6c0738905dc1368299',1,'KKEffectAutoComposeMonetizViewProtocol-p']]],
+  ['numbins_14',['numBins',['../interface_c_i_histogram_display_config.html#a101ab886d2fa9e8c2beda35b59f1ef39',1,'CIHistogramDisplayConfig']]],
+  ['numcores_15',['numCores',['../interface_a_c_device_hardware.html#a02d14c855ffd0d337bfc5ca293bffb35',1,'ACDeviceHardware']]],
+  ['numdetectionthreads_16',['numDetectionThreads',['../category_k_k_image_kira_source_filter_grp_07_08.html#a95c151f970f502353744342723668898',1,'KKImageKiraSourceFilterGrp()']]],
+  ['numnewasset_17',['numNewAsset',['../interface_k_k_album_button_model.html#a46855aec473c5e18bde1ba34c8ea17ce',1,'KKAlbumButtonModel']]],
+  ['numofdots_18',['numOfDots',['../interface_k_k_center_anchor_value_slider_view.html#a448d8c8a773438a1c5821ee1c328a096',1,'KKCenterAnchorValueSliderView']]],
+  ['numpercentageblock_19',['numPercentageBlock',['../interface_a_c_progress_bar.html#a29435a641399531b01f97cb61e031fcd',1,'ACProgressBar']]]
+];

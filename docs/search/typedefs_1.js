@@ -1,0 +1,24 @@
+var searchData=
+[
+  ['cvarr_0',['CvArr',['../group__core__c.html#gac5046bc0456e9295d80b37774384798c',1,'types_c.h']]],
+  ['cvattrlist_1',['CvAttrList',['../group__core__c.html#ga91eee1f42676764a40dc374b7325e48d',1,'types_c.h']]],
+  ['cvbox2d_2',['CvBox2D',['../group__core__c.html#ga1762469fc41cbb29ee7d50aa52373944',1,'types_c.h']]],
+  ['cvchainptreader_3',['CvChainPtReader',['../group__imgproc__c.html#gad2ab0dda49f6227021ebc5884144b265',1,'types_c.h']]],
+  ['cvcmpfunc_4',['CvCmpFunc',['../group__core__c.html#ga3a07a759381ddab0f1fb2a0f20323889',1,'core_c.h']]],
+  ['cvconnectedcomp_5',['CvConnectedComp',['../group__imgproc__c.html#ga199f0064f401e8ca4a887b3a0d6c809c',1,'types_c.h']]],
+  ['cvconvexitydefect_6',['CvConvexityDefect',['../group__imgproc__c.html#ga7d548a9db3df2b52a495b74542bc4c94',1,'types_c.h']]],
+  ['cvfilenode_7',['CvFileNode',['../group__core__c.html#gad23ee5481aedee0342950be4cea3938a',1,'types_c.h']]],
+  ['cvfilestorage_8',['cvfilestorage',['../group__core__c.html#ga84556d1bb6f1b8b02c04c60246747a7e',1,'CvFileStorage:&#160;persistence.hpp'],['../group__core__c.html#ga84556d1bb6f1b8b02c04c60246747a7e',1,'CvFileStorage:&#160;types_c.h']]],
+  ['cvfont_9',['CvFont',['../group__imgproc__c.html#ga2e15bdbeb4d269c81122383a869b4c45',1,'imgproc_c.h']]],
+  ['cvhumoments_10',['CvHuMoments',['../group__imgproc__c.html#ga6589f51fd0b55e655a01da62d2e5e40a',1,'types_c.h']]],
+  ['cvlineiterator_11',['CvLineIterator',['../group__core__c.html#ga9f955f216262e774281d1d4d2633ce41',1,'types_c.h']]],
+  ['cvmat_12',['CvMat',['../group__core__c.html#ga18b76c8e4e3350edf694525811d716fe',1,'types_c.h']]],
+  ['cvmatnd_13',['CvMatND',['../group__core__c.html#ga87614c3b9617d464dc5b2e8e3e542596',1,'types_c.h']]],
+  ['cvmoments_14',['CvMoments',['../group__imgproc__c.html#ga2f96e485e13f47bc95a5079eb5c7eba8',1,'types_c.h']]],
+  ['cvnarrayiterator_15',['CvNArrayIterator',['../group__core__c.html#gab5eb585aa58f5544801c0e4b2f563191',1,'core_c.h']]],
+  ['cvrect_16',['CvRect',['../group__core__c.html#ga5cec18322935dc33c6c767e93c65480b',1,'types_c.h']]],
+  ['cvscalar_17',['CvScalar',['../group__core__c.html#ga0b6f6d6ff7424ea6ca6a07673233eb6c',1,'types_c.h']]],
+  ['cvstringhashnode_18',['CvStringHashNode',['../group__core__c.html#ga90b9503f36edb612c3a71ec9491f7848',1,'types_c.h']]],
+  ['cvtermcriteria_19',['CvTermCriteria',['../group__core__c.html#ga339b0c21341832ae97e57bfffb1ca9ba',1,'types_c.h']]],
+  ['cvtypeinfo_20',['CvTypeInfo',['../group__core__c.html#ga0a4acf19ca209fb2018e5dd59ae50722',1,'types_c.h']]]
+];

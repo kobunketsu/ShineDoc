@@ -1,0 +1,28 @@
+var searchData=
+[
+  ['i_20o_0',['Media I/O',['../group__videoio.html',1,'']]],
+  ['image_20blenders_1',['Image Blenders',['../group__stitching__blend.html',1,'']]],
+  ['image_20file_20reading_20and_20writing_2',['Image file reading and writing',['../group__imgcodecs.html',1,'']]],
+  ['image_20filtering_3',['Image Filtering',['../group__imgproc__filter.html',1,'']]],
+  ['image_20processing_4',['Image processing',['../group__imgproc.html',1,'']]],
+  ['image_20transformations_5',['Miscellaneous Image Transformations',['../group__imgproc__misc.html',1,'']]],
+  ['images_20matching_6',['Features Finding and Images Matching',['../group__stitching__match.html',1,'']]],
+  ['images_20stitching_7',['Images stitching',['../group__stitching.html',1,'']]],
+  ['images_20warping_8',['Images Warping',['../group__stitching__warp.html',1,'']]],
+  ['imaging_9',['HDR imaging',['../group__photo__hdr.html',1,'']]],
+  ['imgproc_5fc_10',['Imgproc_c',['../group__imgproc__c.html',1,'']]],
+  ['imgproc_5fcolormap_11',['Imgproc_colormap',['../group__imgproc__colormap.html',1,'']]],
+  ['imgproc_5ffeature_12',['Imgproc_feature',['../group__imgproc__feature.html',1,'']]],
+  ['imgproc_5fhist_13',['Imgproc_hist',['../group__imgproc__hist.html',1,'']]],
+  ['imgproc_5fmotion_14',['Imgproc_motion',['../group__imgproc__motion.html',1,'']]],
+  ['imgproc_5fobject_15',['Imgproc_object',['../group__imgproc__object.html',1,'']]],
+  ['imgproc_5fshape_16',['Imgproc_shape',['../group__imgproc__shape.html',1,'']]],
+  ['imgproc_5ftransform_17',['Imgproc_transform',['../group__imgproc__transform.html',1,'']]],
+  ['in_20multi_20dimensional_20spaces_18',['Clustering and Search in Multi-Dimensional Spaces',['../group__flann.html',1,'']]],
+  ['information_19',['Initalization and Information',['../group__cudacore__init.html',1,'']]],
+  ['initalization_20and_20information_20',['Initalization and Information',['../group__cudacore__init.html',1,'']]],
+  ['intel_20ipp_20asynchronous_20c_20c_20converters_21',['Intel IPP Asynchronous C/C++ Converters',['../group__core__ipp.html',1,'']]],
+  ['interoperability_22',['interoperability',['../group__core__directx.html',1,'DirectX interoperability'],['../group__core__opengl.html',1,'OpenGL interoperability']]],
+  ['ios_20glue_23',['ios glue',['../group__imgcodecs__ios.html',1,'iOS glue'],['../group__videoio__ios.html',1,'iOS glue']]],
+  ['ipp_20asynchronous_20c_20c_20converters_24',['Intel IPP Asynchronous C/C++ Converters',['../group__core__ipp.html',1,'']]]
+];
